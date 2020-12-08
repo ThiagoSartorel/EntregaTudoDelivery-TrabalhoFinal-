@@ -5,7 +5,7 @@ Realização de um sistema de delivery que recebe o nome de Entrega Tudo, onde n
 
 - [x] Controle e Versão: Git (Plataformas GitHub)
 - [x] Concepção do Sistema (PDF);
-- [ ] Prototipação das telas (PDF);
+- [x] Prototipação das telas (PDF); https://xd.adobe.com/view/ac6b9868-7ba2-44d8-b99b-f35da65d590f-f938/
 - [x] Controle de Tarefas e Planejamentos (Kanban);
 - [x] Levantamento de Requisitos Funcionais e Não Funci-onais (PDF);
 - [x] Histórias de Usuário e seus critérios de aceite;
