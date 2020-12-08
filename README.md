@@ -12,3 +12,5 @@ Realização de um sistema de delivery que recebe o nome de Entrega Tudo, onde n
 - [x] Diagramas de Classe e Caso de Uso (PDF);
 
 Thiago Cezar Posnske Sartorel
+
+![Logo do projeto](https://github.com/ThiagoSartorel/EntregaTudoDelivery-TrabalhoFinal-/blob/main/logo.png)
